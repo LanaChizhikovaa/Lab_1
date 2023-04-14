@@ -1,0 +1,12 @@
+Ivanov Alexander Igorevich
+Bumagin Ivan Pavlovich
+Elsif Foreign Ibn-Local
+Pavlow Konstantin
+Sample
+Aaaa Bbbbb Cccccc Dddddd
+Double  Space Test
+Tabulation	Spacing Test
+Doule		Tabulation  Test
+Triple   Spacing Test
+Triple			Tabulation Test
+Other,Spacing,Test
