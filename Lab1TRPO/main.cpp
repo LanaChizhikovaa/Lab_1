@@ -1,5 +1,5 @@
-﻿
-
+#include <QCoreApplication>
+#include <QString>
 #include <string.h>
 #include <iostream>
 #include <PersonKeeper.h>
