@@ -1,6 +1,6 @@
 #ifndef ESTACKEXEPTION_H
 #define ESTACKEXEPTION_H
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <string.h>
 
 //класс исключений, связанных с работой стека
